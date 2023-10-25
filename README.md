@@ -24,13 +24,13 @@ This report entails loan prediction using decision tree classifier. The dataset 
 &nbsp;
 #### Introduction: 
 
-The goal of the workshop is to investigate the use of a decision tree classifier for loan prediction. This report describes the practical activities completed during the workshop, with an emphasis on the proper use of dataframe functions, feature selection, LabelEncoder, and the building of a decision tree classifier. The workshop findings, including the evaluation metrics used to assess the performance of the decision tree models, are also discussed in the report. 
+The goal of the project is to investigate the use of a decision tree classifier for loan prediction. This report describes the practical activities completed, with an emphasis on the proper use of dataframe functions, feature selection, LabelEncoder, and the building of a decision tree classifier. The findings, including the evaluation metrics used to assess the performance of the decision tree models, are also discussed in the report. 
 
   
 &nbsp;
 #### Data and Preprocessing: 
 
-The dataset used in the workshop contained information about loan applicants, including various attributes such as applicant income, gender, credit score, loan term, loan amount, etc. The first step involved loading the dataset into a pandas dataframe, which facilitated data manipulation and analysis. Basic dataframe functions like head(), info(), shape() and describe() were used to gain an understanding of the data's structure and content. 
+The dataset used contains information about loan applicants, including various attributes such as applicant income, gender, credit score, loan term, loan amount, etc. The first step involved loading the dataset into a pandas dataframe, which facilitated data manipulation and analysis. Basic dataframe functions like head(), info(), shape() and describe() were used to gain an understanding of the dataset structure and content. 
 
  
 &nbsp;
